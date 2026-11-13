@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "935615885453",
+    "firebase_url": "https://clouddatabaseapp-68cb2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "clouddatabaseapp-68cb2",
+    "storage_bucket": "clouddatabaseapp-68cb2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935615885453:android:d809ac91357718832632c4",
+        "android_client_info": {
+          "package_name": "com.example.clouddatabaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgoFatsqu7kOt1ChEt6VNKof5VOUOL73Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
